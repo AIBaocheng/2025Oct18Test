@@ -1,1 +1,1 @@
-## This is to test file to learn to load file into remove repository 
+## This is a test file to learn to how to load file into remote repository (through GITHUB).
